@@ -2,7 +2,7 @@
 {
     'name': "HTTP API",
     'summary': """You can create record using GET or POST method of RESTfull API.""",
-    'author': "Debasish",
+    'author': "Debasish Dash",
     'website': "http://www.fdshive.com",
     'category': 'API',
     'version': '0.1',
